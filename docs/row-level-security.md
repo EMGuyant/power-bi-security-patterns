@@ -12,7 +12,7 @@ For the complete walkthrough, including step-by-step instructions, DAX expressio
 
 You can download the example Power BI file for hands-on testing and learning:
 
-➡️ [`pbix/row-level-security-example.pbix`](../pbix/row-level-security-example.pbix)
+➡️ [`pbix/row-level-security-example.pbix`](../pbix/rls-sample-report.pbix)
 
 The file includes:
 - Pre-configured static RLS roles
