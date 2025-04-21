@@ -4,7 +4,7 @@ This section covers the basics of Row-Level Security (RLS) in Power BI, includin
 
 For the complete walkthrough, including step-by-step instructions, DAX expressions, visuals, and deployment guidance:
 
-👉 **[Read the full blog post here](https://your-blog-url.com)**
+👉 **[Read the full blog post here](https://ethanguyant.com/2025/04/21/power-bi-row-level-security-explained-protect-data-by-user-role/)**
 
 ---
 
