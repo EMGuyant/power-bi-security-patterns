@@ -34,6 +34,6 @@ This allows you to preview and validate RLS filtering without needing real email
 ## 📚 Official Documentation
 
 For additional guidance, refer to Microsoft’s official RLS documentation:  
-[🔗 Row-level security (RLS) in Power BI](https://learn.microsoft.com/power-bi/admin/service-security-row-level-security)
+[🔗 Row-level security (RLS) in Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/rls-guidance)
 
 ---
