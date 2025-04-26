@@ -19,7 +19,6 @@ Each example includes step-by-step guidance and downloadable `.pbix` files to te
 ## 📩 Coming Soon
 
 This guide is part of an RLS-focused series. Upcoming posts will explore:
-- ✅ **Partial Row-Level Security** (for hybrid access control)
 - 🛡 **Object-Level Security** (for hiding entire tables or columns)
 
 ---
