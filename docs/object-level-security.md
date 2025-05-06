@@ -4,7 +4,7 @@ This sample Power BI report demonstrates how to implement Object-Level Security 
 
 For the complete walkthrough:
 
-👉 **[Read the full blog post here]()**
+👉 **[Read the full blog post here](https://ethanguyant.com/2025/05/06/power-bi-object-level-security-explained-control-table-and-column-access-by-role/)**
 
 ---
 
